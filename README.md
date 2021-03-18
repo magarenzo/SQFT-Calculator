@@ -10,7 +10,7 @@ While searching for my first home, I was constantly coming across houses that in
 
 * Input the total amount of rooms and then the script will ask you for the length and width of each room, one by one.
 
-  * Note that each input is asking for INCHES, not FEET. You can do this conversion pretty easily on your own. 🤪
+  * Note that each input is asking for **INCHES**, not feet. You can do this conversion pretty easily on your own. 🤪
 
 * Each input will repeat itself if you enter anything other than an integer.
 
