@@ -26,6 +26,5 @@ for i in range(rooms):
     room = length * width
     inches += room
 
-feet = inches / 12
-sqft = feet / 12
+sqft = inches / 144
 print("\nThe total interior SQFT is " + str(sqft) + ".")
