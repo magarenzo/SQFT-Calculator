@@ -18,4 +18,4 @@ While searching for my first home, I was constantly coming across houses that in
 
 ## Owner
 
-[Michael A.](https://linkedin.com/in/magarenzo)
+[Michael Agarenzo](https://linkedin.com/in/magarenzo)
